@@ -1,1 +1,2 @@
-This is a readme file. 
+## Eric and Rachel's Project
+This is a readme.
